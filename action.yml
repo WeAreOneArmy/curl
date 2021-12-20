@@ -28,7 +28,7 @@ inputs:
     description: 'Proxy authentication, format =>  username:password'
   is_debug: 
     description: 'show debug message of response'
-    default: false
+    default: 'false'
   retry:
     default: 1/1
   custom-config:
